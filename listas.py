@@ -76,9 +76,7 @@ print(my_NumList)
 my_NumList.sort(reverse=True)
 print("De mayor a menor: ", my_NumList)
 
-#################TUPLAS####################
-###########################################
-
+#TUPLAS
 # Las tuplas son estructuras similares a las listas, pero son inmutables (no se pueden modificar una vez creadas)
 
 # Convertir una lista a tupla. La función tuple() toma una lista y la convierte en una tupla
