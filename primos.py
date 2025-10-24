@@ -52,4 +52,3 @@ while a == 1:
     except KeyboardInterrupt:
         print("\nPrograma finalizado por el usuario.")
         break
-"""
