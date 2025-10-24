@@ -1,7 +1,3 @@
-# 10/09/2025 clase de 2 a 4 programacion aplicada
-
-#################LISTAS####################
-
 # Crean una lista con varios colores
 my_lista = ['Rojo', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
 
